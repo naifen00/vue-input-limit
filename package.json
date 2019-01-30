@@ -1,0 +1,22 @@
+{
+  "name": "vue-input-limit",
+  "version": "0.1.2",
+  "description": "Vue input limit directive",
+  "main": "dist/index.common.js",
+  "module": "dist/index.esm.js",
+  "unpkg": "dist/index.js",
+  "scripts": {
+    "build": "rollup -c --environment INCLUDE_DEPS,BUILD:production"
+  },
+  "repository": "https://github.com/naifen00/vue-input-limit.git",
+  "author": "liqianyong",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.3.1",
+    "rollup-plugin-babel": "^4.3.2"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+}

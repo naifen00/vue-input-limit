@@ -1,0 +1,9 @@
+*.log
+.DS_Store
+node_modules/
+.idea/
+.vscode/
+.babelrc
+rollup.config.js
+yarn.lock
+yarn-error.log
