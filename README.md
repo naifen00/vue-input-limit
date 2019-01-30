@@ -1,2 +1,2 @@
-# vue-limit-input
-Vue limit input directive.
+# vue-input-limit
+Vue input limit directive.
