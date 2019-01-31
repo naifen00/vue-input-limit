@@ -3,11 +3,19 @@ Vue input limit directive.
 
 ## Installation
 
+### yarn | npm
 ```
 yarn add vue-input-limit
 or
 $ npm install vue-input-limit -S
 ```
+
+### CDN
+
+```
+<script src="https://unpkg.com/vue-input-limit"></script>  
+```
+
 
 ## Example
 
